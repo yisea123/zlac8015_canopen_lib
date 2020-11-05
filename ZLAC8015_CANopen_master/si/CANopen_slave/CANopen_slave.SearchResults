@@ -1,0 +1,7 @@
+---- canOpen Matches (1 in 1 files) ----
+Can_driver.h (e:\working\stm32\canopen\luojicanopen\canfestival\inc):CAN_HANDLE DLL_CALL(canOpen)(s_BOARD *)FCT_PTR_INIT;
+---- canOpen Search Errors Encountered (3) ----
+The following 3 files could not be processed:
+E:\working\stm32\canopen\luojiCANopen\si\CANopen_slave\CANopen_slave.IAB : File could not be opened.
+E:\working\stm32\canopen\luojiCANopen\si\CANopen_slave\CANopen_slave.IMB : File could not be opened.
+E:\working\stm32\canopen\luojiCANopen\proj\JLinkLog.txt : File could not be opened.
